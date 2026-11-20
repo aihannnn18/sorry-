@@ -47,7 +47,7 @@ musicButton.addEventListener("click", function () {
 
 loveButton.addEventListener("click", function () {
   loveMessage.textContent =
-    "Aku sayang kamu selamanya! 💗🥰";
+    "PRANKKK";
 
-  loveButton.textContent = "I LOVE YOU TOO 💕";
+  loveButton.textContent = "GA PRANK LOVE U MOREEE💕";
 });
